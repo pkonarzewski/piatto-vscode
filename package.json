@@ -1,0 +1,31 @@
+{
+    "name": "piatto",
+    "displayName": "Piatto",
+    "description": "Port of Piatto theme for Sublime Text",
+    "version": "0.0.1",
+    "keywords": [
+        "Theme",
+        "Dark Theme",
+        "Light Theme"
+    ],
+    "engines": {
+        "vscode": "^1.40.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Piatto Light",
+                "uiTheme": "vs",
+                "path": "./themes/Piatto Light-color-theme.json"
+            },
+            {
+                "label": "Piatto Dark",
+                "uiTheme": "vs",
+                "path": "./themes/Piatto Dark-color-theme.json"
+            }
+        ]
+    }
+}

@@ -1,0 +1,12 @@
+{
+	"tokenColors": "./Piatto Light.tmTheme",
+	"colors": {
+		"editor.background": "#f2f2f2",
+		"editorCursor.foreground": "#395063",
+		"editor.foreground": "#395063",
+		"editorWhitespace.foreground": "#395063",
+		"editor.lineHighlightBackground": "#e6e6e6",
+		"editor.selectionBackground": "#d4f1ff"
+	},
+	"name": "Piatto Light"
+}

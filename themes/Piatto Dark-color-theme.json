@@ -1,0 +1,12 @@
+{
+	"tokenColors": "./Piatto Dark.tmTheme",
+	"colors": {
+		"editor.background": "#2b2b2b",
+		"editorCursor.foreground": "#B2B8C2",
+		"editor.foreground": "#B2B8C2",
+		"editorWhitespace.foreground": "#B2B8C2",
+		"editor.lineHighlightBackground": "#363636",
+		"editor.selectionBackground": "#404b56"
+	},
+	"name": "Piatto Dark"
+}
